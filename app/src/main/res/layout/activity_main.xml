@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mainLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/pocketRemovalStatusTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/pocket_removal_detection_status" />
+
+    <Button
+        android:id="@+id/pocketRemovalButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/start_pocket_removal_detection" />
+
+    <TextView
+        android:id="@+id/chargerRemovalStatusTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/charger_removal_detection_status" />
+    <Button
+        android:id="@+id/chargerRemovalButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/start_charger_removal_detection" />
+
+    <TextView
+        android:id="@+id/motionDetectionStatusTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/motion_detection_status" />
+
+    <Button
+        android:id="@+id/motionDetectionButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/start_motion_detection" />
+
+</LinearLayout>

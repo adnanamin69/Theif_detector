@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Thief Detector</string>
+    <string name="motion_detection_status">Motion Detection Status:</string>
+    <string name="start_charger_removal_detection">Start Charger Removal Detection</string>
+    <string name="charger_removal_detection_status">Charger Removal Detection Status:</string>
+    <string name="start_pocket_removal_detection">Start Pocket Removal Detection</string>
+    <string name="pocket_removal_detection_status">Pocket Removal Detection Status:</string>
+    <string name="start_motion_detection">Start Motion Detection</string>
+    <string name="running"> running</string>
+    <string name="not_running"> stoped</string>
+</resources>
