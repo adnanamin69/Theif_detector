@@ -78,6 +78,7 @@ Feel free to reach out to us for any inquiries or further information:
 -  [![Email](https://img.shields.io/badge/Email-adnanamin69.aa@gmail.com-blue?style=flat&logo=gmail)](mailto:adnanamin69.aa@gmail.com)
 -  [![Twitter](https://img.shields.io/badge/Twitter-%40amin69_a-blue?style=flat&logo=twitter)](https://twitter.com/amin69_a)
 -  [![LinkedIn](https://img.shields.io/badge/LinkedIn-adnanamin69-blue?style=flat&logo=linkedin)](https://linkedin.com/in/adnanamin69)
+-  [![Medium](https://img.shields.io/badge/Medium-%40adnanamin69-black?style=flat&logo=medium)](https://medium.com/@adnanamin69)
 -  [![Instagram](https://img.shields.io/badge/Instagram-%40adnanamin69.aa-purple?style=flat&logo=instagram)](https://instagram.com/adnanamin69.aa)
 -  [![Facebook](https://img.shields.io/badge/Facebook-%40adnanamin69-blue?style=flat&logo=facebook)](https://facebook.com/adnanamin69)
 -  [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B923063311094-green?style=flat&logo=whatsapp)](https://wa.me/923063311094)
