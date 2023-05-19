@@ -22,7 +22,7 @@ To use the Thief Detector Android Application, follow these steps:
 
 1. Clone the repository:
    ```shell
-   git clone https://github.com/your-username/thief-detector-app.git
+   git clone https://github.com/adnanamin69/Theif_detector.git
    ```
 
 2. Open the project in Android Studio.
@@ -73,9 +73,7 @@ If you encounter any issues or have any questions or suggestions regarding the a
 
 ## Disclaimer
 
-The Thief Detector Android Application is intended for personal use and entertainment purposes only. The application may not guarantee the prevention of theft or provide foolproof security. We do not take any responsibility for any loss, damage, or unauthorized access to your belongings while using this application. Please use it
-
- responsibly and in accordance with the law.
+The Thief Detector Android Application is intended for personal use and entertainment purposes only. The application may not guarantee the prevention of theft or provide foolproof security. We do not take any responsibility for any loss, damage, or unauthorized access to your belongings while using this application. Please use it responsibly and in accordance with the law.
 
 ---
 ## Acknowledgements
