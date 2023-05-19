@@ -75,13 +75,15 @@ If you encounter any issues or have any questions or suggestions regarding the a
 
 Feel free to reach out to us for any inquiries or further information:
 
-- Email: adnanamin69.aa@gmail.com
-- Twitter: [![Twitter](https://img.shields.io/badge/Twitter-%40amin69_a-blue?style=flat&logo=twitter)](https://twitter.com/amin69_a)
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-adnanamin69-blue?style=flat&logo=linkedin)](https://linkedin.com/in/adnanamin69)
-- Instagram: [![Instagram](https://img.shields.io/badge/Instagram-%40adnanamin69.aa-purple?style=flat&logo=instagram)](https://instagram.com/adnanamin69.aa)
-- Facebook: [![Facebook](https://img.shields.io/badge/Facebook-%40adnanamin69-blue?style=flat&logo=facebook)](https://facebook.com/adnanamin69)
+-  [![Email](https://img.shields.io/badge/Email-adnanamin69.aa@gmail.com-blue?style=flat&logo=gmail)](mailto:adnanamin69.aa@gmail.com)
+-  [![Twitter](https://img.shields.io/badge/Twitter-%40amin69_a-blue?style=flat&logo=twitter)](https://twitter.com/amin69_a)
+-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-adnanamin69-blue?style=flat&logo=linkedin)](https://linkedin.com/in/adnanamin69)
+-  [![Instagram](https://img.shields.io/badge/Instagram-%40adnanamin69.aa-purple?style=flat&logo=instagram)](https://instagram.com/adnanamin69.aa)
+-  [![Facebook](https://img.shields.io/badge/Facebook-%40adnanamin69-blue?style=flat&logo=facebook)](https://facebook.com/adnanamin69)
+-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B923063311094-green?style=flat&logo=whatsapp)](https://wa.me/923063311094)
 
-Follow us on social media for the latest news, updates, and announcements regarding the Thief Detector Android Application.
+
+Follow us on social media for the latest news, updates, and announcements regarding to any software related stuffs.
 
 
 ## Disclaimer
